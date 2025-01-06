@@ -5,7 +5,7 @@
 Projeto com o objetivo de gerar um ebook digital explorando a praticidade e eficiência oferecida por ferramentas de Inteligência Artificial.
 Todos os prompts seguem abaixo.
 
-<a href="https:/Ebook - Cibersegurança.pdfw"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Niquefranca/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%20Ciberseguran%C3%A7a.pdf> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
