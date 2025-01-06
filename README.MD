@@ -5,7 +5,7 @@
 Projeto com o objetivo de gerar um ebook digital explorando a praticidade e eficiência oferecida por ferramentas de Inteligência Artificial.
 Todos os prompts seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Niquefranca/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%20Ciberseguran%C3%A7a.pdf title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
